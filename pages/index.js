@@ -4,7 +4,7 @@ import tw from 'twin.macro'
 
 const Container = styled.div`
   ${tw`
-   bg-blue-900 flex flex-col items-center
+  bg-blue-900 text-blue-400 flex flex-col items-center
 `}
   .rojo {
     color: red;

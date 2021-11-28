@@ -1,7 +1,6 @@
 import React from 'react'
-import { GlobalStyles } from 'twin.macro'
 
-import '../src/styles.css'
+import GlobalStyles from '../src/components/globalstyles'
 
 const App = ({ Component, pageProps }) => (
   <>
